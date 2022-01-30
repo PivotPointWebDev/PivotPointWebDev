@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im interested in creating better code, and learning from others. Im currently working on html and CSS, moving into JS. Any guidance will be appreciated. 
+Im interested in writing better code, and learning from others. Im currently working on html and CSS primarily. Then moving into JS. Any guidance will be appreciated. 
 
 <!--
 **PivotPointWebDev/PivotPointWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
